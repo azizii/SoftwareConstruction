@@ -38,7 +38,7 @@ public class Student {
    
     public int getTestScore(){
         
-        
+        int v;
         return Test[NUMBER_OF_TEST-1];
     }
      public void setname(String nam){
